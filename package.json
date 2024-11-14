@@ -1,5 +1,5 @@
 {
-  "homepage": "https://parthpael-28.github.io/E-commerce-website-deployed",
+  "homepage": "https://parthpael-28.github.io/E-commerce-website-Frontend-using-React",
   "name": "e-commerce",
   "version": "1.0.0",
   "main": "index.js",
@@ -18,6 +18,7 @@
     "react-router-dom": "^6.26.2"
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "gh-pages": "^6.2.0",
+    "vite": "^5.4.11"
   }
 }
